@@ -1,5 +1,5 @@
 # A board game template
-This is a simple .Net WinForms board game template for a max. 4 person 30 fields discovery game. The players start from field one and can be moved by the mouse freely. I developed it fast for the 30th birthday of my friend and anyone is free to adjust it to their ideas.:)
+This is a simple .Net WinForms board game template for a max. 4 person 30 fields discovery game. The players start from field one and can be moved by the mouse freely.
 
 To play the game 4 things are needed in addition to the game's exe:
 - A .csv file that contains the game title, the field titles, the field stories (multiple stories can be defined for a field). See an example in the _example configs_ folder.
