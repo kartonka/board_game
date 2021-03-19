@@ -7,8 +7,3 @@ To play the game 4 things are needed in addition to the game's exe:
 The picture that belongs to the 4th field's 2nd story should be called: "4_2.png". Remark: Other picture extensions (.bmp, .jpg, .gif, etc.) are supported as well.
 - A picture that is shown as a cover picture for the undiscovered fields.
 - A paths.ini file next to the .exe with the paths to the recently listed items. See an example in the _example config_ folder!!
-
-An example picture can be seen below (in Hungarian):
-
-[egpic](https://user-images.githubusercontent.com/10601273/111828930-4ec31800-88ec-11eb-90a0-072a5b7f4045.png)
-
